@@ -1,0 +1,7 @@
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\obj\Debug\CADs.csprojResolveAssemblyReference.cache
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\bin\Debug\CADs.dll
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\bin\Debug\CADs.pdb
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\bin\Debug\EN.dll
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\bin\Debug\EN.pdb
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\obj\Debug\CADs.dll
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\CADs\obj\Debug\CADs.pdb

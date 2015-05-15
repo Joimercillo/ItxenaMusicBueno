@@ -1,0 +1,4 @@
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\EN\bin\Debug\EN.dll
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\EN\bin\Debug\EN.pdb
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\EN\obj\Debug\EN.dll
+C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\EN\obj\Debug\EN.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EN", "EN\EN.csproj", "{06ABA091-5104-43B2-BCBC-6CB54EF52091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADs", "CADs\CADs.csproj", "{926A09C7-F453-4E95-BBA5-9133F11C07A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{D14EF0BE-3E34-4593-B39F-30CBE0B20C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06ABA091-5104-43B2-BCBC-6CB54EF52091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ABA091-5104-43B2-BCBC-6CB54EF52091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ABA091-5104-43B2-BCBC-6CB54EF52091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ABA091-5104-43B2-BCBC-6CB54EF52091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926A09C7-F453-4E95-BBA5-9133F11C07A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926A09C7-F453-4E95-BBA5-9133F11C07A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926A09C7-F453-4E95-BBA5-9133F11C07A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926A09C7-F453-4E95-BBA5-9133F11C07A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14EF0BE-3E34-4593-B39F-30CBE0B20C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14EF0BE-3E34-4593-B39F-30CBE0B20C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14EF0BE-3E34-4593-B39F-30CBE0B20C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14EF0BE-3E34-4593-B39F-30CBE0B20C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
