@@ -17,7 +17,7 @@
 										<ul class="menu">
 											<li class="item"><a href="../default.aspx">Principal</a></li>
 											<li><a href="Audio.aspx">Audio</a></li>
-											<li><a href="Video.aspx">Video</a></li>
+											<li><a href="Videos.aspx">Video</a></li>
 											<li><a href="Galeria.aspx">Galeria</a></li>
 											<li class="item-1"><a href="Concierto.aspx">Conciertos</a></li>
 											<li class="last"><a href="Contacto.aspx">Contacto</a></li>
@@ -45,7 +45,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-2">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo]"><img src="images/page3-img1.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo]"><img src="../images/page3-img1.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2" href="#"></a>
@@ -54,7 +54,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-3">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_1]"><img src="images/page3-img2.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_1]"><img src="../images/page3-img2.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2 link-style1" href="#"></a>
@@ -63,7 +63,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-2">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_2]"><img src="images/page3-img3.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_2]"><img src="../images/page3-img3.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2 link-style2" href="#"></a>
@@ -74,7 +74,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-2">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_3]"><img src="images/page3-img4.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_3]"><img src="../images/page3-img4.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2" href="#"></a>
@@ -83,7 +83,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-3">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_4]"><img src="images/page3-img5.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_4]"><img src="../images/page3-img5.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2 link-style1" href="#"></a>
@@ -92,7 +92,7 @@
 										<article class="grid_4 alpha">
 											<div class="padding-grid-2">
 												<div class="wrapper p2">
-													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_5]"><img src="images/page3-img6.jpg"  alt=""></a></figure>
+													<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo_5]"><img src="../images/page3-img6.jpg"  alt=""></a></figure>
 												</div>
 												<p class="prev-indent-bot2">Temporibus autem quibusdam</p>
 												<a class="link-2 link-style2" href="#"></a>
@@ -120,7 +120,7 @@
 										<ul class="list-services">
 											<li><a class="tooltips n-1" title="Twitter" href="#"></a></li>
 											<li><a class="tooltips n-2" title="Facebook" href="#"></a></li>
-											<li class="last"><a class="tooltips n-3" title="Youtube" href="#"></a></li>
+											<li class="last"><a class="tooltips n-3" title="Youtube" href="https://www.youtube.com"></a></li>
 										</ul>
 									</div>
 								</div>
