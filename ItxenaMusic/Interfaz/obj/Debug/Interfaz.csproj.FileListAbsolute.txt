@@ -3,3 +3,8 @@ C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\Interfaz\bin\Interfaz.pdb
 C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\Interfaz\obj\Debug\Interfaz.dll
 C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\Interfaz\obj\Debug\Interfaz.pdb
 C:\Users\CesarEnrique\Desktop\ItxenaMusic\ItxenaMusic\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\CesarEnrique\Desktop\Musica\ItxenaMusicBueno\ItxenaMusic\Interfaz\bin\Interfaz.dll
+C:\Users\CesarEnrique\Desktop\Musica\ItxenaMusicBueno\ItxenaMusic\Interfaz\bin\Interfaz.pdb
+C:\Users\CesarEnrique\Desktop\Musica\ItxenaMusicBueno\ItxenaMusic\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\CesarEnrique\Desktop\Musica\ItxenaMusicBueno\ItxenaMusic\Interfaz\obj\Debug\Interfaz.dll
+C:\Users\CesarEnrique\Desktop\Musica\ItxenaMusicBueno\ItxenaMusic\Interfaz\obj\Debug\Interfaz.pdb

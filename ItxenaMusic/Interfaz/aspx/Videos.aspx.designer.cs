@@ -10,6 +10,6 @@
 namespace Interfaz {
     
     
-    public partial class _default {
+    public partial class Videos {
     }
 }

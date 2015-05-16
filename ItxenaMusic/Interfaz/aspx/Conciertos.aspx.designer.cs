@@ -7,9 +7,9 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Interfaz {
+namespace Interfaz.aspx {
     
     
-    public partial class _default {
+    public partial class WebForm2 {
     }
 }

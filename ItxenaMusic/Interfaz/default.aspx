@@ -1,29 +1,24 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Inicio.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Interfaz.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Inicio.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Interfaz._default" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-	
-		
-                     
-                   
-              
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-     <div class="extra">
+    <div class="extra">
             <header>
 				<div class="main">
 					<div class="bg-1">
-						<img class="auto-style2" src="images/titulo-itxenamusic2.png" /></div>
+						<img class="auto-style2" src="./images/titulo-itxenamusic2.png" /></div>
 					<nav>
 						<div class="menu-bg-tail">
 							<div class="menu-bg">
 								<div class="container_12">
 									<div class="grid_12">
 										<ul class="menu">
-											<li class="item"><a href="index.html">Principal</a></li>
-											<li><a href="audio.aspx">Audio</a></li>
-											<li><a href="video.html">Video</a></li>
-											<li><a href="gallery.html">Galeria</a></li>
-											<li class="item-1"><a href="tour-dates.html">Conciertos</a></li>
-											<li class="last"><a href="contacts.html">Contacto</a></li>
+											<li class="item"><a href="default.aspx">Principal</a></li>
+											<li><a href="./aspx/Audio.aspx">Audio</a></li>
+											<li><a href="./aspx/Videos.aspx">Video</a></li>
+											<li><a href="./aspx/Galeria.aspx">Galeria</a></li>
+											<li class="item-1"><a href="./aspx/Conciertos.aspx">Conciertos</a></li>
+											<li class="last"><a href="./aspx/Contacto.aspx">Contacto</a></li>
 										</ul>
 										<div class="clear"></div>
 									</div>
@@ -35,7 +30,7 @@
 					<div class="slider-wrapper">
 						<div class="slider">
 							
-								<img src="images/slider-img1.jpg" alt="" /></li>
+								<img src="../images/slider-img1.jpg" alt="" /></li>
 								
 						</div>
 					</div>
@@ -108,7 +103,7 @@
 										<div class="padding-grid-2">
 											<h3 class="letter">In Stores <strong>Now!</strong></h3>
 											<div class="wrapper">
-												<figure class="style-img fleft"><a href="#"><img src="images/page1-img1.jpg"  alt="" /></a></figure>
+												<figure class="style-img fleft"><a href="#"><img src="../images/page1-img1.jpg"  alt="" /></a></figure>
 											</div>
 										</div>
 									</article>
@@ -145,7 +140,7 @@
 										<h3 class="letter">Latest <strong>Video</strong></h3>
 										
 										<div class="wrapper">
-											<figure class="style-img-2 fleft"><a class="lightbox-image" href="video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo]"><img src="images/page1-img2.jpg"  alt="" /></a></figure>
+											<figure class="style-img-2 fleft"><a class="lightbox-image" href="../video/video_AS3.swf?width=495&amp;height=275&amp;fileVideo=intro06.flv" data-gal="prettyVideo[prettyVideo]"><img src="images/page1-img2.jpg"  alt="" /></a></figure>
 										</div>
 									</div>
 								</article>
